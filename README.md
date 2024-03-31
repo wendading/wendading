@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png)]
+I am an amateur coding hobbiest.
+
+I have basic experience with GV-Basic (variant of GW-Basic), Free Pascal, Visual Basic 6.0, C#, Javascript, HTML and SQL.
+
 <!--
 **wendading/wendading** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
