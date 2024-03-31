@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![N|Solid]([https://cldup.com/dTxpPi9lDf.thumb.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png))](https://nodesource.com/products/nsolid)
-
+[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png)]
 <!--
 **wendading/wendading** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
