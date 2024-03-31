@@ -1,8 +1,11 @@
-### Hi there 👋
+### Heya folks, thanks for checking out my Github profile :)
 
 I am an amateur coding hobbiest.
 
 I have basic experience with GV-Basic (variant of GW-Basic), Free Pascal, Visual Basic 6.0, C#, Javascript, HTML and SQL.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 
 <!--
 **wendading/wendading** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
