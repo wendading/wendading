@@ -2,7 +2,7 @@
 
 I am an amateur coding hobbiest.
 
-I have limited experience with GV-Basic (variant of GW-Basic), Free Pascal, Visual Basic 6.0, C#, Javascript, HTML and SQL. Never went to school for CS, instead I took accounting and economics classes.
+I have limited experience with GV-Basic (variant of GW-Basic), Free Pascal, Visual Basic 6.0, C#, Javascript/Typescript, HTML and SQL. Never went to school for CS, instead I took accounting and economics classes.
 
 - 📝 I’m currently working on a small Blazor project using C#/JS/SQL/HTML
 - 💼 I have a full-time job with a financial institution unrelated to software development
