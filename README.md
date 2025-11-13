@@ -1,6 +1,6 @@
 ### Heya folks, thanks for checking out my Github profile :)
 
-I am an amateur coding hobbiest.
+I am a solo developer.
 
 I have limited experience with GV-Basic (variant of GW-Basic), Free Pascal, Visual Basic 6.0, C#, Javascript/Typescript, HTML and SQL. Never went to school for CS, instead I took accounting and economics classes.
 
